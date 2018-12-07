@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/LHShare/HBuilder.git/iPhone_base.ipa</string> 
+                    <string>https://github.com/LHShare/HBuilder/iPhone_base.ipa</string> 
                 </dict>
             </array>
             <key>metadata</key>
